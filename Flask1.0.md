@@ -68,7 +68,7 @@ def hello_world():
 
 当请求的path 是` /` 时，用`hello_world`来处理这个请求，返回字符串Hello World!
 
-![00e62daf-ecf6-4ff0-a097-1b461020e313](.\images\00e62daf-ecf6-4ff0-a097-1b461020e313.png)
+![00e62daf-ecf6-4ff0-a097-1b461020e313](./images/00e62daf-ecf6-4ff0-a097-1b461020e313.png)
 
 我们添加一个新的路由
 
@@ -80,7 +80,7 @@ def books():
 
 当请求的path 是`/books`时，用`books`来处理这个请求，返回字符串books
 
-![5e4ef512-b9d8-41ce-a04f-a54baad9461a](.\images\5e4ef512-b9d8-41ce-a04f-a54baad9461a.png)
+![5e4ef512-b9d8-41ce-a04f-a54baad9461a](./images/5e4ef512-b9d8-41ce-a04f-a54baad9461a.png)
 
 以上无论是 `/hello` 还是 `/books/` 这种URL都是固定的，如果我们想要通过URL传递参数呢？
 
