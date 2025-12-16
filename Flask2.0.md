@@ -364,7 +364,7 @@ if __name__ == '__main__':
 
 
 
-![60e0c832-6d4f-488d-8b1a-e4ca328b64d7](/.images/60e0c832-6d4f-488d-8b1a-e4ca328b64d7.png)
+![60e0c832-6d4f-488d-8b1a-e4ca328b64d7](./images/60e0c832-6d4f-488d-8b1a-e4ca328b64d7.png)
 
 
 
